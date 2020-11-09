@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilusalongXMLOleynik", "ilusalongXMLOleynik\ilusalongXMLOleynik.csproj", "{AB47CF7D-7419-4CEA-8BE9-5500492B68E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB47CF7D-7419-4CEA-8BE9-5500492B68E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB47CF7D-7419-4CEA-8BE9-5500492B68E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB47CF7D-7419-4CEA-8BE9-5500492B68E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB47CF7D-7419-4CEA-8BE9-5500492B68E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32BBFC18-E301-4843-AAD8-BEE98EB37CE9}
+	EndGlobalSection
+EndGlobal

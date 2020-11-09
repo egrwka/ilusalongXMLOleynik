@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<broneerimine>
+  <aeg>13.00</aeg>
+  <protseduur>meeste soeng</protseduur>
+  <klientitelefon>+37253542210</klientitelefon>
+  <teenindaja>
+    <nimi>Egor</nimi>
+  </teenindaja>
+  <hind>7€</hind>
+</broneerimine>
+<broneerimine>
+<aeg>14.00</aeg>
+  <protseduur>pedikuur</protseduur>
+  <klientitelefon>+37253542515</klientitelefon>
+  <teenindaja>
+    <nimi>Artjom</nimi>
+  </teenindaja>
+  <hind>15€</hind>
+</broneerimine>
+<broneerimine>
+  <aeg>16.00</aeg>
+  <protseduur>naiste soeng</protseduur>
+  <klientitelefon>+37258562515</klientitelefon>
+  <teenindaja>
+    <nimi>Nastya</nimi>
+  </teenindaja>
+  <hind>40€</hind>
+</broneerimine>
